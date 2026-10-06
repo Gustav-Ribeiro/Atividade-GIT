@@ -3,7 +3,7 @@ import { View, Text, StyleSheet } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text style={styles.title}>Hello World!</Text>
+      <Text style={styles.title}>Hello World - Aluno 1!</Text>
       <Text>Projeto React Native com Git e GitHub</Text>
     </View>
   );
